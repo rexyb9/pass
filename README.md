@@ -1,2 +1,2 @@
-# rexyb9.github.io
+# password generator
 web for rexyb9
